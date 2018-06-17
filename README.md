@@ -1,0 +1,1 @@
+# redis_deployment_autoscaling_multiaz
